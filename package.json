@@ -10,7 +10,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "babel-node describe-example.js"
+    "start": "babel-node describe-async-example.js"
   },
   "repository": {
     "type": "git",
